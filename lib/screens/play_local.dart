@@ -191,8 +191,8 @@ class _NowPlayingState extends State<NowPlaying> {
                     bottom: 80.0,
                     child: Padding(
                       padding: EdgeInsets.only(
-                        left: MediaQuery.of(context).size.width * 0.30,
-                        right: MediaQuery.of(context).size.width * 0.30,
+                        left: MediaQuery.of(context).size.width * 0.32,
+                        right: MediaQuery.of(context).size.width * 0.32,
                       ),
                       child: Column(
                         children: <Widget>[
